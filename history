@@ -1,0 +1,111 @@
+ls
+2 sonic-pi
+3 sudo raspi-config
+4 ruby app/server/ruby/bin/sonic-pi-server.rb
+5 gem install bundler
+6 sudo gem install bundler
+7 bundle install
+8 ruby app/server/ruby/bin/sonic-pi-server.rb
+9 locate sonic-pi-server.rb
+10 whereis sonic-pi-server.rb
+11 ruby app/server/ruby/bin/sonic-pi-server.rb
+12 ruby2.3 app/server/ruby/bin/sonic-pi-server.rb
+13 cd /
+14 ls
+15 cd /home/pi
+16 gem install ffi-rzmq
+17 sudo gem install ffi-rzmq
+18 sudo gem install iruby --pre
+19 iruby register --force
+20 ruby2.3 app/server/ruby/bin/sonic-pi-server.rb
+21 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+22 export PATH="$HOME/.cargo/bin:$PATH"
+23 cargo install --git https://github.com/lpil/sonic-pi-tool/ --force
+24 sonic-pi-tool start-server
+25 pip3 install virtualenv
+26 virtualenv ven
+27 export PATH="$HOME/.local/bin/$PATH"
+28 export PATH="$HOME/.local/bin:$PATH"
+29 virtualenv
+30 mkdir virtjupyter
+31 cd virtjupyter/
+32 virtualenv -p python3.5 jupytest
+33 pip install jupyter
+34 pip3 install jupyter
+35 virtualenv -p python3.6 jupytest
+36 cd ..
+37 sudo apt-get install python3.6
+38 sudo apt-get update
+39 sudo apt-get install build-essential tk-dev libncurses5-dev libncursesw5-dev
+libreadline6-dev libdb5.3-dev libgdbm-dev libsqlite3-dev libssl-dev libbz2-dev libexpat1-dev
+liblzma-dev zlib1g-dev
+40 wget https://www.python.org/ftp/python/3.6.5/Python-3.6.5.tar.xz
+41 tar xf Python-3.6.5.tar.xz
+42 cd Python-3.6.5/
+43 ./configure
+44 make
+
+45 sudo make altinstall
+46 cd..
+47 cd ..
+48 python3.6
+49 ls
+50 rm virtjupyter/
+51 rm -R virtjupyter/
+52 ls
+53 mkdir virenv-jupyter
+54 cd virenv-jupyter/
+55 virtualenv -p python3.6 jupytest
+56 source jupytest/bin/activate
+57 pip3.6 install jupyter
+58 jupyter-notebook
+59 jupyter-notebook --generate-config
+60 ls
+61 nano /home/pi/.jupyter/jupyter_notebook_config.py
+62 jupyter-notebook
+63 nano /home/pi/.jupyter/jupyter_notebook_config.py
+64 jupyter-notebook
+65 nano /home/pi/.jupyter/jupyter_notebook_config.py
+66 jupyter-notebook
+67 cd virenv-jupyter/
+68 source jupytest/bin/activate
+69 jupyter-notebook
+70 ruby2.3
+71 ruby2.3 print 123
+72 sudo apt install libzmq3-dev libczmq-dev
+73 export IRUBY_SESSION_ADAPTER="cztop"
+74 sudo gem install iruby
+75 history
+76 iruby notebook
+77 history
+78 cd virenv-jupyter/
+79 source jupytest/bin/activate
+80 nano /home/pi/.jupyter/jupyter_notebook_config.py
+81 jupyter-notebook
+82 jupyter kernelspec list
+83 /home/pi/.local/share/jupyter/kernels/ruby --version
+84 /home/pi/.local/share/jupyter/kernels/ruby
+85 jupyter-notebook
+86 sudo gem install bundler cztop iruby
+87 iruby register --force
+88 jupyter-notebook
+89 iruby notebook
+90 gem pry
+
+91 gem install pry
+92 sudo gem install pry
+93 iruby register --force
+94 iruby notebook
+95 sudo gem install bundler
+96 iruby register --force
+97 iruby notebook
+98 jupyter-notebook
+99 pry
+
+100 jupyter-
+101 history
+
+102 jupyter kernelspec list
+103 env ruby -v
+104 irb
+105 history
